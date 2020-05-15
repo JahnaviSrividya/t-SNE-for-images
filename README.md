@@ -24,3 +24,4 @@ and visualise the clustering of images with the reduced dimensionality.
 The image dataset used here is the UCI ML handwritten digits dataset available in sklearn.datasets as load_digits.
 
 
+###ref: https://distill.pub/2016/misread-tsne/
