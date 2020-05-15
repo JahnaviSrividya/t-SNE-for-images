@@ -20,7 +20,7 @@ may mean analyzing multiple plots with different perplexities.
 
 ## This repo:
 This repository utilizes t-SNE to reduce the dimensionality of an image to 2D,
-and visualise the classification of images with the reduced dimensionality.
+and visualise the clustering of images with the reduced dimensionality.
 The image dataset used here is the UCI ML handwritten digits dataset available in sklearn.datasets as load_digits.
 
 
